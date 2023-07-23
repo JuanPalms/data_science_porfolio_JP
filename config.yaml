@@ -1,0 +1,3 @@
+### This YAML file sets environment variables for the application.
+## Paths
+resume_version: "./pdfs/juan_palmeros_resume.pdf"
