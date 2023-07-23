@@ -17,12 +17,15 @@ with open(config_f['css_file']) as f:
 
 with st.container():
     st.write("# Juan Palmeros")
+    st.markdown("<br>", unsafe_allow_html=True)
     st.subheader("Data Scientist :computer: :bar_chart: :computer:")
 
 with st.container():
     col1, col2 = st.columns([2.5,7.5], gap="small")
     with col1:
         st.image(config_f['profile_picture'], width=300)
+        st.markdown("<br> <br> <br>", unsafe_allow_html=True)
+        st.write(":mailbox:",config_f["email"])
     with col2:
         st.markdown(
         """
@@ -45,6 +48,7 @@ with st.container():
 
         """
         )
+        
 
 with st.container():
     # Add download link for your resume

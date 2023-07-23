@@ -5,3 +5,6 @@ profile_picture: "./images/profile_pic.png"
 
 ## Directories
 css_file: "./styles/main.css"
+
+## Variables
+email: "palmerosjuanfrancisco@gmail.com"
