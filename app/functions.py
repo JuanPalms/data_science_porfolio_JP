@@ -2,6 +2,7 @@
 This python module implements some functions to be used in the main.py file.
 """
 import os
+import yaml
 import sys
 import base64
 
