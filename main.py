@@ -2,6 +2,7 @@
 This python module implements the main function of my data science portfolio.
 """
 import streamlit as st
+from functions import get_binary_file_downloader_html
 
 # Set page configuration
 st.set_page_config(page_title="Juan Palmeros Portfolio", 
@@ -35,3 +36,6 @@ Data Scientist, Data Analyst, Data Engineer, Business Intelligence Analyst and M
 
 """
 )
+
+# Add download link for your resume
+st.markdown(get_binary_file_downloader_html('pdfs/juan_palmeros_resume.pdf', 'Download my resume'), unsafe_allow_html=True)
