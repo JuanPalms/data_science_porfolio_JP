@@ -2,6 +2,11 @@
 ## Paths
 resume_version: "./pdfs/juan_palmeros_resume.pdf"
 profile_picture: "./images/profile_pic.png"
+banorte_picture: "./images/banorte.jpg"
+banxico_picture: "./images/banxico.jpg"
+cide_picture: "./images/cide.jpeg"
+
+
 
 ## Directories
 css_file: "./styles/main.css"
