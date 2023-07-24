@@ -16,7 +16,7 @@ with open(config_f['css_file']) as f:
     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
 with st.container():
-    st.write("# Juan Palmeros")
+    st.markdown("# Juan Palmeros", unsafe_allow_html=True)
     st.markdown("<br> <br> <br>", unsafe_allow_html=True)
     st.subheader("Data Scientist :computer: :bar_chart: :computer:")
 
