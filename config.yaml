@@ -13,3 +13,10 @@ css_file: "./styles/main.css"
 
 ## Variables
 email: "palmerosjuanfrancisco@gmail.com"
+
+palette:
+  dark_cyan: "#0d2c2f"
+  cyan: "#01555f"
+  red: "#ce505c"
+  soft_red: "#f0839a"
+  pale_pink: "#ffe4ed"
