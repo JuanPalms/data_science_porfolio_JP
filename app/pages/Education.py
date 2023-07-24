@@ -28,7 +28,7 @@ with st.container():
     with col2:
         st.markdown(
         """
-        ### M.Sc Data Science, [Instituto Tecnológico Autónomo de México, ITAM (Instituto Tecnológico Autónomo de México)](https://www.itam.mx/en)
+        ### M.Sc Data Science, [ITAM (Autonomous Technological Institute of Mexico)](https://www.itam.mx/en)
         *August 2022 - June 2023*
         Relevant Coursework: Data Mining, Machine Learning, Deep Learning, Statical Analysis, Time Series Analysis, 
         Bayesian Statistics, Causal Inference, Optimization, Data architecture.
