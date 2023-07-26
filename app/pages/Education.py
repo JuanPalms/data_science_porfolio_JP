@@ -29,9 +29,10 @@ with st.container():
         st.markdown(
         """
         ### M.Sc Data Science, [ITAM (Autonomous Technological Institute of Mexico)](https://www.itam.mx/en)
-        *August 2022 - June 2023*
+        *August 2022 - June 2023*  
+        GPA: 9/10  
         Relevant Coursework: Data Mining, Machine Learning, Deep Learning, Statical Analysis, Time Series Analysis, 
-        Bayesian Statistics, Causal Inference, Optimization, Data architecture.
+        Bayesian Statistics, Causal Inference, Optimization, Data Architecture.  
         """
         )
 st.markdown("<br>", unsafe_allow_html=True)
@@ -44,8 +45,9 @@ with st.container():
         st.markdown(
         """
         ### B.Sc Economics, [CIDE (Center for Research and Teaching in Economics)](https://www.cide.edu/)
-        *August 2015 - June 2019*
-        Relevant course work: Econometrics, Macroeconomics, Microeconomics, Game Theory, Statistics, Public Finance,
+        *August 2015 - June 2019*  
+        GPA: 9.2/10  
+        Relevant course work: Econometrics, Macroeconomics, Microeconomics, Game Theory, Statistics, Public Finance.  
         Dissertation: "The effect of financial literacy in asset acumulation: Evidence from ENIF 2018"
         """
         )

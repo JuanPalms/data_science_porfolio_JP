@@ -46,10 +46,10 @@ with st.container():
         """
         ### Financial Researcher, [Banco de México (Central Bank of Mexico)](https://www.banxico.org.mx/indexen.html)
         *August 2019 - June 2023*
-        - I led the first representative survey in Latin America on the financial health of individuals. [Link to survey results (spanish)](https://www.banxico.org.mx/publicaciones-y-prensa/encuesta-de-competencias-financieras-de-la-poblaci/competencias-financieras-en.html)
-        - I contributed to the modification of the [National Survey of Financial Inclusion 2021](http://en.www.inegi.org.mx/programas/enif/2021/), one of the largest financial inclusion surveys in the world.
-        - I conducted a statistical analysis of financial infrastructure locations for a public investment of over 120 million Mexican pesos.
-        - I provided continuous information on the state of the financial system in Mexico to guide decision-making for stakeholders.
+        - Led the first representative survey in Latin America on the financial health of individuals. [Link to survey results (spanish)](https://www.banxico.org.mx/publicaciones-y-prensa/encuesta-de-competencias-financieras-de-la-poblaci/competencias-financieras-en.html)
+        - Contributed to the modification of the [National Survey of Financial Inclusion 2021](http://en.www.inegi.org.mx/programas/enif/2021/), one of the largest financial inclusion surveys in the world.
+        - Conducted a statistical analysis of financial infrastructure locations for a public investment of over 120 million Mexican pesos.
+        - Provided continuous information on the state of the financial system in Mexico to guide decision-making for stakeholders.
         """
         )
 ## Set cide container
